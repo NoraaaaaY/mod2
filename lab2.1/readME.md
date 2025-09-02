@@ -1,3 +1,3 @@
-I think the most challenging accessibility enhancements to implement is adding label for the input fields since I am not familiar with the function so that I often make typing error. Also make the color AAA contracting is challenging because I dont have a sense of color.
-For users relying on assistive technologies, ARIA attributes clarifys the role of each elements and the relationship between each elements.
-What tools did you use to check color contrast, and how did they help? I used WebAIM Contrast Checker to check the contrast level, it could help me check the contrast ratio of 2 colors, so I keep changing color to find the higher contrast ratio one.
+1. I think the most challenging accessibility enhancements to implement is adding label for the input fields since I am not familiar with the function so that I often make typing error. Also make the color AAA contracting is challenging because I dont have a sense of color.
+2. For users relying on assistive technologies, ARIA attributes clarifys the role of each elements and the relationship between each elements.
+3. What tools did you use to check color contrast, and how did they help? I used WebAIM Contrast Checker to check the contrast level, it could help me check the contrast ratio of 2 colors, so I keep changing color to find the higher contrast ratio one.
